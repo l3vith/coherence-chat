@@ -1,0 +1,69 @@
+All that you need to know about Coherence '25
+Hackathon Rules – Coherence ‘25 - A 24 hr Offline Hackathon
+Initial Judging Round (Free Entry):
+
+Teams will first be evaluated based on their submitted PPT and demo video.
+Submission Deadline: March 16, 2025, 11:59 PM. Late submissions will not be considered.
+No registration fee for this round.
+Grand Finale Participation Fee:
+
+Teams that qualify for the Grand Finale (24-hour hackathon) will be required to pay a participation fee of ₹500 per team.
+Payment details and deadlines will be shared with the shortlisted teams.
+Problem Statements:
+
+The problem statements for the selection round and the Grand Finale will be different.
+The problem statement for the final round will be declared to the shortlisted teams on March 25, 2025.
+Final Code Submission:
+
+Teams must submit their GitHub repository link with properly documented code.
+Submission must include: Source Code, Demo Video, and PPT Presentation.
+Original Work Only:
+
+All projects must be built from scratch during the hackathon.
+No pre-existing code or plagiarism allowed—violations will lead to disqualification.
+Team Conduct:
+
+No external assistance outside of assigned mentors.
+Professional conduct must be maintained at all times.
+Judging Criteria:
+
+Innovation and Creativity – Uniqueness of the solution.
+Technical Implementation – Code quality and feasibility.
+Impact and Use Case – Practicality and real-world application.
+Presentation and Demo – Clarity, execution, and engagement.
+Final Decision:
+
+The judges' decision is final and binding. No appeals will be entertained.
+
+Communication & Updates:
+All participating teams must join the official WhatsApp group for important updates: Join Here (https://chat.whatsapp.com/KsUFdyRNAiqLSJukLPQIg2)
+---*---*---*---*---*---
+Important dates & deadlines?
+Registration Deadline
+16 Mar 25, 11:59 PM IST
+Grand Finale
+28 Mar 25, 12:00 PM IST
+---*---*---*---*---*---
+Contact the organisers
+Paarth Baradia - Club Lead
+paarth.psb@gmail.com
++918451924342
+
+Vishal Mane - Associate Club Lead
+vishalmane0611@gmail.com
++918793618982
+---*---*---*---*---*---
+Stages and Timelines
+1. 
+6 Mar 25
+Submission Round (via Unstop)
+Teams must choose one problem statement from the given options. Submissions require a PPT and a 2-3 minute video explaining the solution. The video should clearly present the methodology, concepts, and tech stack used, along with a detailed explanation of the project. Teams must screen-record their PPT while explaining the solution. The video should be uploaded to YouTube or Google Drive, with a shareable link provided for evaluation.
+Start: 06 Mar 25, 09:35 AM IST
+End: 16 Mar 25, 11:59 PM IST
+
+2. 
+28 Mar 25
+Grand Finale
+This will be a Offline round! You will see the “Enter” button here, once the round is live.
+
+
