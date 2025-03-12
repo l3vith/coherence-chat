@@ -1,0 +1,94 @@
+Q1: What is Coherence 2025?
+A1: Coherence 2025 is a 24-hour offline hackathon where innovation knows no bounds. It unites brilliant minds, fueling a symphony of creativity on a relentless quest to redefine possibilities and amplify the pulse of tech brilliance.
+
+Q2: Where is Coherence 2025 being held?
+A2: Coherence 2025 is being held at Vidyavardhini's College of Engineering and Technology, K.T. Marg, Vartak College Campus, Vasai Road, Vasai-Virar, Maharashtra 401202.
+
+Q3: What are the domains for the hackathon?
+A3: The hackathon covers three domains:
+
+Web/App Development – Craft responsive websites and cross-platform mobile apps with the latest technologies.
+Blockchain – Empower decentralized solutions and build blockchain applications for the future.
+AI/ML – Explore artificial intelligence and machine learning to solve complex problems.
+Q4: What is the schedule for Day 1 (March 28)?
+A4:
+
+12:00 PM – Reporting and Registration
+2:00 PM – Opening Ceremony
+3:00 PM – Hacking Begins
+8:00 PM – Dinner Break
+Q5: What is the schedule for Day 2 (March 29)?
+A5:
+
+8:00 AM – Breakfast
+10:00 AM – Hacking Resumes
+12:00 PM – Judging Begins
+2:00 PM – Closing Ceremony
+Q6: Who can participate in Coherence 2025?
+A6: Coherence 2025 is open to undergraduate and postgraduate students from all backgrounds.
+
+Q7: How many members are allowed in a team?
+A7: Teams can consist of 2 to 4 members.
+
+Q8: How do I register for the hackathon?
+A8: You can register on the official Coherence 2025 website by filling out the registration form.
+
+Q9: Is there a registration fee?
+A9: No, participation in Coherence 2025 is completely free.
+
+Q10: What is the selection process for the hackathon?
+A10: Teams will be selected based on the innovation, feasibility, and impact of their project ideas.
+
+Q11: Can I participate alone?
+A11: No, you need to form a team of at least two members.
+
+Q12: Will food and accommodation be provided?
+A12: Yes, food and basic accommodation will be provided for all participants.
+
+Q13: What should I bring to the hackathon?
+A13: Bring your laptop, charger, valid ID, and any other hardware you may need.
+
+Q14: Are there any prizes for winners?
+A14: Yes, winners will receive exciting cash prizes, trophies, and other rewards.
+
+Q15: How will the projects be judged?
+A15: Projects will be judged based on innovation, technical execution, and presentation.
+
+Q16: Will there be any mentorship during the hackathon?
+A16: Yes, experienced mentors will be available to provide guidance and support.
+
+Q17: Can we use third-party libraries and APIs?
+A17: Yes, you are allowed to use third-party libraries and APIs as long as they are open-source or properly licensed.
+
+Q18: Can I work on a pre-existing project?
+A18: No, all projects must be started from scratch at the hackathon.
+
+Q19: Can I submit multiple projects?
+A19: No, each team is allowed to submit only one project.
+
+Q20: Is internet access available at the venue?
+A20: Yes, high-speed internet will be available for all participants.
+
+Q21: Are there any hardware restrictions?
+A21: No specific restrictions, but teams are encouraged to use hardware provided by the organizers when available.
+
+Q22: Can I switch teams after registration?
+A22: No, team compositions are final after registration closes.
+
+Q23: What happens if a team member drops out?
+A23: The team can continue with the remaining members if the minimum requirement of 2 members is maintained.
+
+Q24: How can I contact the organizers for support?
+A24: You can reach out to the support team via the official website or through the provided email.
+
+Q25: Are there any rules for coding languages?
+A25: No, you can use any programming language you prefer.
+
+Q26: What if my project requires special hardware?
+A26: You need to inform the organizers in advance if you require special hardware.
+
+Q27: Are participants allowed to sleep at the venue?
+A27: Yes, sleeping arrangements will be provided.
+
+Q28: Will there be networking opportunities with industry professionals?
+A28: Yes, there will be dedicated networking sessions with industry experts and professionals.
