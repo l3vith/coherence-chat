@@ -1,0 +1,31 @@
+-- Registration Process: -- 
+
+6th March: Registration goes live on Unstop.
+16th March (11:59 PM): Unstop registration deadline.
+20th - 21st March: Shortlisted teams announcement.
+28th - 29th March: Offline Hackathon event dates.
+
+
+-- 24-Hour Hackathon Timeline: --
+
+Day 1 - 28th March:
+12:00 PM: Reporting time and registration.
+1:00 PM: Inauguration Ceremony.
+Overview of the event and release of problem statements.
+2:00 PM: Coding begins.
+4:30 PM: Mentoring Round 1 starts.
+5:00 PM: Evening snacks.
+8:00 PM: Mentoring Round 2 starts.
+9:00 PM: Dinner break.
+12:00 AM (Midnight): Midnight snack.
+
+Day 2 - 29th March:
+8:00 AM: Breakfast.
+12:00 PM: Lunch.
+2:00 PM: Coding ends.
+3:00 PM: Final presentations.
+5:00 PM: Results announcement and distribution of prizes.
+6:00 PM: Event concludes and dispersal.
+
+
+
