@@ -1,36 +1,12 @@
 About Coherence 2025
 Welcome to Coherence 2025, where innovation knows no bounds! In the heart of our 24-hour hackathon, we unite brilliant minds, fueling a symphony of creativity. Join us on a relentless quest to redefine possibilities and amplify the pulse of tech brilliance!
 ---*---*---*---*---*---
-Domains
-Web/App Development
-Craft responsive websites and cross-platform mobile apps with the latest technologies.
-Blockchain
-Empower decentralized solutions and building blockchain applications for the future.
-AI/ML
-Explore artificial intelligence and machine learning to solve complex problems.
+Domains are
+1. Web/App Development: Craft responsive websites and cross-platform mobile apps with the latest technologies.
+2. Blockchain: Empower decentralized solutions and building blockchain applications for the future.
+3. AI/ML: Explore artificial intelligence and machine learning to solve complex problems.
 ---*---*---*---*---*---
-Time Line
-Day 1 - March 28, 2025
---------------------------------
-12:00 PM - Reporting and Registration
-1:00 PM - Inauguration Ceremony
-    - Releasing problem Statements & Overview of Rules and Regulations
-2:00 PM - Coding Begins
-4:30 PM - Mentoring Round 1 Starts
-5:00 PM - Evening Snacks
-8:00 PM - Mentoring Round 2 Starts
-9:00 PM - Dinner Break
-12:00 AM - Midnight Snacks
----*---*---*---*---*---
-Day 2 - March 29, 2025
---------------------------------
-8:00 AM - Breakfast
-12:00 PM - Lunch
-2:00 PM - Coding Ends
-3:00 PM - Final Presentation
-5:00 PM - Result Announcement and Distribution
-6:00 PM - Dispersal
----*---*---*---*---*---
+
 General Guidelines
 All participants are requested to get their identities verified beforehand at the Registration desks.
 Problem Statements will be released on the day of hackathon i.e on 28rd March.
@@ -53,7 +29,8 @@ Internship Opportunity
 ---*---*---*---*---*---
 Frequently Asked Questions
 How do I register for the hackathon?
-You can register by visiting our registration page and following the instructions.
+You can register by visiting our registration page (https://unstop.com/o/flano7B?lb=VKuEY8zM&utm_medium=Share&utm_source=shortUrl
+) and following the instructions.
 
 What is the allowed Team size?
 1-4 Members in a single team
@@ -79,12 +56,12 @@ Team participation is required. Individual participation is not allowed.
 Can a member be a part of two teams?
 No, every member should be part of a single team.
 ---*---*---*---*---*---
-Reach Us
+Reach Us at Location/Venue
 Vidyavardhini's College of Engineering and Technology
 K.T. Marg, Vartak College Campus, Vasai Road,
 Vasai-Virar, Maharashtra 401202
 ---*---*---*---*---*---
-For Enquiries:
+For Enquiries Contact:
 Amey Chaudhari: +91 96534 92872
 Shreya Wankkhede: +91 96195 08298
 Shagun Upadhyay: +91 96193 42859

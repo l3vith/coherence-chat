@@ -31,18 +31,12 @@ Innovation and Creativity – Uniqueness of the solution.
 Technical Implementation – Code quality and feasibility.
 Impact and Use Case – Practicality and real-world application.
 Presentation and Demo – Clarity, execution, and engagement.
-Final Decision:
 
+Final Decision:
 The judges' decision is final and binding. No appeals will be entertained.
 
 Communication & Updates:
 All participating teams must join the official WhatsApp group for important updates: Join Here (https://chat.whatsapp.com/KsUFdyRNAiqLSJukLPQIg2)
----*---*---*---*---*---
-Important dates & deadlines?
-Registration Deadline
-16 Mar 25, 11:59 PM IST
-Grand Finale
-28 Mar 25, 12:00 PM IST
 ---*---*---*---*---*---
 Contact the organisers
 Paarth Baradia - Club Lead
@@ -53,15 +47,14 @@ Vishal Mane - Associate Club Lead
 vishalmane0611@gmail.com
 +918793618982
 ---*---*---*---*---*---
-Stages and Timelines
-1. 
-6 Mar 25
-Submission Round (via Unstop)
+Stages and Timelines:
+1. Submission Round (via Unstop)
+16 Mar 25
 Teams must choose one problem statement from the given options. Submissions require a PPT and a 2-3 minute video explaining the solution. The video should clearly present the methodology, concepts, and tech stack used, along with a detailed explanation of the project. Teams must screen-record their PPT while explaining the solution. The video should be uploaded to YouTube or Google Drive, with a shareable link provided for evaluation.
 Start: 06 Mar 25, 09:35 AM IST
 End: 16 Mar 25, 11:59 PM IST
 
-2. 
+2. Final Round
 28 Mar 25
 Grand Finale
 This will be a Offline round! You will see the “Enter” button here, once the round is live.
