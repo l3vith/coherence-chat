@@ -1,0 +1,157 @@
+All that you need to know about the event Coherence '25
+Hackathon Rules – Coherence ‘25 - A 24 hr Offline Hackathon
+Initial Judging Round (Free Entry):
+
+Teams will first be evaluated based on their submitted PPT and demo video.
+Submission Deadline: March 16, 2025, 11:59 PM. Late submissions will not be considered.
+No registration fee for this round.
+
+Grand Finale Participation Fee:
+Teams that qualify for the Grand Finale (24-hour hackathon) will be required to pay a participation fee of ₹500 per team.
+Payment details and deadlines will be shared with the shortlisted teams.
+
+Problem Statements:
+The problem statements for the selection round and the Grand Finale will be different.
+The problem statement for the final round will be declared to the shortlisted teams on March 25, 2025.
+
+Final Code Submission:
+Teams must submit their GitHub repository link with properly documented code.
+Submission must include: Source Code, Demo Video, and PPT Presentation.
+
+Original Work Only:
+All projects must be built from scratch during the hackathon.
+No pre-existing code or plagiarism allowed—violations will lead to disqualification.
+
+Team Conduct:
+No external assistance outside of assigned mentors.
+Professional conduct must be maintained at all times.
+Judging Criteria:
+
+Innovation and Creativity – Uniqueness of the solution.
+Technical Implementation – Code quality and feasibility.
+Impact and Use Case – Practicality and real-world application.
+Presentation and Demo – Clarity, execution, and engagement.
+
+Final Decision:
+The judges' decision is final and binding. No appeals will be entertained.
+
+Communication & Updates:
+All participating teams must join the official WhatsApp group for important updates: Join Here (https://chat.whatsapp.com/KsUFdyRNAiqLSJukLPQIg2)
+
+---*---*---*---*---*---
+Contact the organisers
+Paarth Baradia - Club Lead
+paarth.psb@gmail.com
++918451924342
+
+Vishal Mane - Associate Club Lead
+vishalmane0611@gmail.com
++918793618982
+---*---*---*---*---*---
+
+Stages and Timelines:
+1. Submission Round (via Unstop)
+16 Mar 25
+Teams must choose one problem statement from the given options. Submissions require a PPT and a 2-3 minute video explaining the solution. The video should clearly present the methodology, concepts, and tech stack used, along with a detailed explanation of the project. Teams must screen-record their PPT while explaining the solution. The video should be uploaded to YouTube or Google Drive, with a shareable link provided for evaluation.
+Start: 06 Mar 25, 09:35 AM IST
+End: 16 Mar 25, 11:59 PM IST
+
+2. Final Round
+28 Mar 25
+Grand Finale -- 24-Hour Hackathon Timeline: --
+
+Day 1 - 28th March:
+12:00 PM: Reporting time and registration.
+1:00 PM: Inauguration Ceremony.
+Overview of the event and release of problem statements.
+2:00 PM: Coding begins.
+4:30 PM: Mentoring Round 1 starts.
+5:00 PM: Evening snacks.
+8:00 PM: Mentoring Round 2 starts.
+9:00 PM: Dinner break.
+12:00 AM (Midnight): Midnight snack.
+
+Day 2 - 29th March:
+8:00 AM: Breakfast.
+12:00 PM: Lunch.
+2:00 PM: Coding ends.
+3:00 PM: Final presentations.
+5:00 PM: Results announcement and distribution of prizes.
+6:00 PM: Event concludes and dispersal.
+
+---*---*---*---*---*---
+About the event: Coherence 2025
+Welcome to Coherence 2025, where innovation knows no bounds! In the heart of our 24-hour hackathon, we unite brilliant minds, fueling a symphony of creativity. Join us on a relentless quest to redefine possibilities and amplify the pulse of tech brilliance!
+---*---*---*---*---*---
+Domains are
+1. Web/App Development: Craft responsive websites and cross-platform mobile apps with the latest technologies.
+2. Blockchain: Empower decentralized solutions and building blockchain applications for the future.
+3. AI/ML: Explore artificial intelligence and machine learning to solve complex problems.
+---*---*---*---*---*---
+
+General Guidelines
+All participants are requested to get their identities verified beforehand at the Registration desks.
+Problem Statements will be released on the day of hackathon i.e on 28rd March.
+Each team should comprise a minimum of 2 and a maximum of 4 members, including the team leader. Team members can be from different colleges.
+Participant should be enrolled in a full-time undergraduate degree.
+Teams will be shortlisted based on Round 1.
+The hackathon format includes 24 hours of coding. After that, teams may present their solutions to the judges.
+Results of this round will be announced after all presentations are reviewed by the judges.
+The participating teams must select any one problem statement to work on and should develop a viable software solution for the same.
+Teams can freely use available servers or their own servers for developing and presenting their product.
+---*---*---*---*---*---
+Prizes up for grabs!
+Winner
+₹ 15,000 + Certificate +
+Internship Opportunity + Goodies
+1st Runner-up
+₹ 7,500 + Certificate +
+Internship Opportunity
++ Goodies
+---*---*---*---*---*---
+Frequently Asked Questions
+How do I register for the hackathon?
+You can register by visiting our registration page (https://unstop.com/o/flano7B?lb=VKuEY8zM&utm_medium=Share&utm_source=shortUrl
+) and following the instructions.
+
+What is the allowed Team size?
+1-4 Members in a single team
+
+What is the registration cost?
+Only ₹500 per team.
+
+When will the problem statements be released?
+All the problem statements will be released a day before the event.
+
+Are travel expenses included too?
+No, the participants are responsible for covering their travel expenses.
+
+Is it an Online or an Offline Hackathon?
+Coherence 25 is being hosted Offline only.
+
+What are the eligibility criteria?
+The hackathon is open to all participants.
+
+Can I participate as an individual or do I need a team?
+Team participation is required. Individual participation is not allowed.
+
+Can a member be a part of two teams?
+No, every member should be part of a single team.
+---*---*---*---*---*---
+Reach Us at Location/Venue
+Vidyavardhini's College of Engineering and Technology
+K.T. Marg, Vartak College Campus, Vasai Road,
+Vasai-Virar, Maharashtra 401202
+---*---*---*---*---*---
+For Enquiries Contact:
+Amey Chaudhari: +91 96534 92872
+Shreya Wankkhede: +91 96195 08298
+Shagun Upadhyay: +91 96193 42859
+Email: mlsc@vcet.edu.in
+
+---*---*---*---*---*---
+Q1: What is the event about (Coherence 2025)?
+A1: Coherence 2025 is a 24-hour offline hackathon where innovation knows no bounds. It unites brilliant minds, fueling a symphony of creativity on a relentless quest to redefine possibilities and amplify the pulse of tech brilliance.
+
+Q2: Where is Coherence 2025 being held?
+A2: Coherence 2025 is being held at Vidyavardhini's College of Engineering and Technology, K.T. Marg, Vartak College Campus, Vasai Road, Vasai-Virar, Maharashtra 401202.
