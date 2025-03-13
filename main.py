@@ -6,6 +6,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.vectorstores import InMemoryVectorStore
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings
 from langchain import hub
 from langgraph.graph import START, StateGraph
@@ -42,10 +43,18 @@ data_2 = open(r'data_2.txt', 'r').read()
 data_3 = open(r'data_3.txt', 'r').read()
 data_4 = open(r'data_4.txt', 'r').read()
 
+comb = open(r'comb.txt', 'r').read()
+
+md_loader = UnstructuredMarkdownLoader('.comb.md')
+
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
-all_splits = text_splitter.split_text(data_1 + "\n\n" + data_2 + "\n\n" + data_3 + "\n\n" + data_4)
+# all_splits = text_splitter.split_text(data_1 + "\n\n" + data_2 + "\n\n" + data_3 + "\n\n" + data_4)
+# all_splits = text_splitter.split_text(comb)
+all_splits = text_splitter.split_documents(md_loader.load())
+
 docs = [Document(page_content=text) for text in all_splits]
 _ = vector_store.add_documents(documents=docs)
+
 
 prompt = hub.pull("rlm/rag-prompt")
 
