@@ -38,11 +38,12 @@ embeddings = HuggingFaceInferenceAPIEmbeddings(
 vector_store = InMemoryVectorStore(embedding=embeddings)
 
 # Data - 1 and Data - 2
-data_1 = open(r'data_1.txt', 'r').read()
-data_2 = open(r'data_2.txt', 'r').read()
-data_3 = open(r'data_3.txt', 'r').read()
-data_4 = open(r'data_4.txt', 'r').read()
-
+'''
+data_1 = open(r'./legacy/data_1.txt', 'r').read()
+data_2 = open(r'./legacy/data_2.txt', 'r').read()
+data_3 = open(r'./legacy/data_3.txt', 'r').read()
+data_4 = open(r'./legacy/data_4.txt', 'r').read()
+'''
 comb = open(r'comb.txt', 'r').read()
 
 md_loader = UnstructuredMarkdownLoader('comb.md')
