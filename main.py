@@ -13,15 +13,24 @@ from pydantic.main import BaseModel
 from typing_extensions import List, TypedDict
 
 import re
+from dotenv import load_dotenv
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
+'''
 if not os.environ.get("GROQ_API_KEY"):
     os.environ["GROQ_API_KEY"] = getpass.getpass("Enter API key for Groq: ")
-    
+'''    
 
-llm = init_chat_model("deepseek-r1-distill-llama-70b", model_provider="groq", api_key=os.environ["GROQ_API_KEY"])
+load_dotenv()
+
+print(f"GROQ_API_KEY: {os.getenv('GROQ_API_KEY')}")
+print(f"HUGGING_FACE_API_KEY: {os.getenv('HUGGING_FACE_API_KEY')}")
+
+
+llm = init_chat_model("deepseek-r1-distill-llama-70b", model_provider="groq", api_key=os.getenv("GROQ_API_KEY"))
 embeddings = HuggingFaceInferenceAPIEmbeddings(
-    api_key = os.environ.get("HUGGING_FACE_API_KEY"), 
+    api_key = os.getenv('HUGGING_FACE_API_KEY'), 
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
@@ -30,9 +39,11 @@ vector_store = InMemoryVectorStore(embedding=embeddings)
 # Data - 1 and Data - 2
 data_1 = open(r'data_1.txt', 'r').read()
 data_2 = open(r'data_2.txt', 'r').read()
+data_3 = open(r'data_3.txt', 'r').read()
+data_4 = open(r'data_4.txt', 'r').read()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
-all_splits = text_splitter.split_text(data_1 + "\n\n" + data_2)
+all_splits = text_splitter.split_text(data_1 + "\n\n" + data_2 + "\n\n" + data_3 + "\n\n" + data_4)
 docs = [Document(page_content=text) for text in all_splits]
 _ = vector_store.add_documents(documents=docs)
 
@@ -62,6 +73,16 @@ print(response["answer"])
 '''
 
 app = FastAPI()
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE"],
+    allow_headers=["*"],
+)
 
 @app.get("/ping")
 async def ping():
