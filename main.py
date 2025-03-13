@@ -45,14 +45,15 @@ data_4 = open(r'data_4.txt', 'r').read()
 
 comb = open(r'comb.txt', 'r').read()
 
-md_loader = UnstructuredMarkdownLoader('.comb.md')
+md_loader = UnstructuredMarkdownLoader('comb.md')
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
 # all_splits = text_splitter.split_text(data_1 + "\n\n" + data_2 + "\n\n" + data_3 + "\n\n" + data_4)
 # all_splits = text_splitter.split_text(comb)
 all_splits = text_splitter.split_documents(md_loader.load())
 
-docs = [Document(page_content=text) for text in all_splits]
+# docs = [Document(page_content=text) for text in all_splits]
+docs = [Document(page_content=text.page_content, metadata=text.metadata) for text in all_splits]
 _ = vector_store.add_documents(documents=docs)
 
 
