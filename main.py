@@ -45,8 +45,8 @@ embeddings = HuggingFaceInferenceAPIEmbeddings(
 
 embeddings = CohereEmbeddings(
     cohere_api_key=os.getenv('COHERE'),
-    model="embed-english-v3.0",  # Add this line
-    user_agent="langchain-cohere-embeddings"  # Optional but recommended
+    model="embed-english-v3.0",  # Added this line
+    user_agent="langchain-cohere-embeddings"
 )
 
 vector_store = InMemoryVectorStore(embedding=embeddings)
