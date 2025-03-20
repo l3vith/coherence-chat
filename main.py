@@ -13,15 +13,18 @@ from langgraph.graph import START, StateGraph
 from pydantic.main import BaseModel
 from typing_extensions import List, TypedDict
 
+from langchain_cohere import CohereEmbeddings
+
 import re
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 
 '''
 if not os.environ.get("GROQ_API_KEY"):
     os.environ["GROQ_API_KEY"] = getpass.getpass("Enter API key for Groq: ")
-'''    
+'''
 
 load_dotenv()
 
@@ -30,20 +33,30 @@ print(f"HUGGING_FACE_API_KEY: {os.getenv('HUGGING_FACE_API_KEY')}")
 
 
 llm = init_chat_model("deepseek-r1-distill-llama-70b", model_provider="groq", api_key=os.getenv("GROQ_API_KEY"))
+'''
 embeddings = HuggingFaceInferenceAPIEmbeddings(
-    api_key = os.getenv('HUGGING_FACE_API_KEY'), 
+    api_key = os.getenv('HUGGING_FACE_API_KEY'),
     model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
+
+embeddings = HuggingFaceInferenceAPIEmbeddings(
+    api_key=os.getenv('HUGGING_FACE_API_KEY'), model_name="sentence-transformers/all-MiniLM-L6-v2"
+)'''
+
+embeddings = CohereEmbeddings(
+    cohere_api_key=os.getenv('COHERE'),
+    model="embed-english-v3.0",  # Add this line
+    user_agent="langchain-cohere-embeddings"  # Optional but recommended
 )
 
 vector_store = InMemoryVectorStore(embedding=embeddings)
 
 # Data - 1 and Data - 2
-'''
-data_1 = open(r'./legacy/data_1.txt', 'r').read()
-data_2 = open(r'./legacy/data_2.txt', 'r').read()
-data_3 = open(r'./legacy/data_3.txt', 'r').read()
-data_4 = open(r'./legacy/data_4.txt', 'r').read()
-'''
+data_1 = open(r'data_1.txt', 'r').read()
+data_2 = open(r'data_2.txt', 'r').read()
+data_3 = open(r'data_3.txt', 'r').read()
+data_4 = open(r'data_4.txt', 'r').read()
+
 comb = open(r'comb.txt', 'r').read()
 
 md_loader = UnstructuredMarkdownLoader('comb.md')
@@ -98,7 +111,7 @@ app.add_middleware(
 @app.get("/ping")
 async def ping():
     return "Pong!"
-    
+
 class Query(BaseModel):
     question: str
 
@@ -106,5 +119,6 @@ class Query(BaseModel):
 async def chat(request: Query):
     response = graph.invoke({"question": request.question})
     response = response["answer"]
-    response = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL) 
-    return response
+    response = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL)
+    # response = response[4:]
+    return {"response": response}
