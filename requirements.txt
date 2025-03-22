@@ -12,6 +12,7 @@ cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.1
 click==8.1.8
+cohere==5.14.0
 cryptography==44.0.2
 dataclasses-json==0.6.7
 distro==1.9.0
@@ -21,8 +22,11 @@ emoji==2.14.1
 eval_type_backport==0.2.2
 fastapi==0.115.11
 fastapi-cli==0.0.7
+fastavro==1.10.0
+filelock==3.18.0
 filetype==1.2.0
 frozenlist==1.5.0
+fsspec==2025.3.0
 greenlet==3.1.1
 groq==0.18.0
 h11==0.14.0
@@ -31,6 +35,7 @@ httpcore==1.0.7
 httptools==0.6.4
 httpx==0.28.1
 httpx-sse==0.4.0
+huggingface-hub==0.29.3
 idna==3.10
 Jinja2==3.1.6
 jiter==0.9.0
@@ -38,6 +43,7 @@ joblib==1.4.2
 jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==0.3.20
+langchain-cohere==0.4.3
 langchain-community==0.3.19
 langchain-core==0.3.43
 langchain-groq==0.2.5
@@ -94,8 +100,11 @@ SQLAlchemy==2.0.38
 starlette==0.46.1
 tenacity==9.0.0
 tiktoken==0.9.0
+tokenizers==0.21.1
 tqdm==4.67.1
 typer==0.15.2
+types-PyYAML==6.0.12.20241230
+types-requests==2.32.0.20250306
 typing-inspect==0.9.0
 typing-inspection==0.4.0
 typing_extensions==4.12.2
